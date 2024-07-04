@@ -1,0 +1,58 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+h1{
+    background-color: aquamarine;
+    text-align: center;
+}
+span{
+    color: red;
+}
+nav{
+    float: right;
+    
+}
+nav ul li {
+    display: inline;
+    margin-left: 15px;
+}
+.house{
+    text-align: center;
+    padding: 50px 0;
+
+}
+.house img{
+    border-radius: 100px;
+}
+h2{
+    text-align: center;
+}
+.coarses-available {
+    padding: 20px;
+    background-color: #fac9c9;
+
+}
+.coarses{
+    padding: 20px;
+    margin: 10px 0;
+    background-color: #fff;
+    border: 3px solid #ddd;
+
+}
+.about{
+    padding: 20px 0;
+    background-color:black;
+    color: white;
+}
+.contact-us{
+    padding: 20px 0;
+    background-color: black;
+    color: white;
+}
+footer{
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 10px 0;
+}
